@@ -18,9 +18,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswins-10&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswins-10&layout=compact)
 
 ---
 
