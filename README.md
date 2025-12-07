@@ -18,9 +18,11 @@
 ---
 
 ### 📊 GitHub Stats
-![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswins-10&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswins-10&layout=compact)
+![Aswin's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aswins-10&theme=github_dark)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aswins-10&theme=github_dark)
+
 
 ---
 
